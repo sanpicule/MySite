@@ -13,7 +13,7 @@ h1,p,h2 {
 
 /* header */
 header {
-  background: #f2cda2;
+  background: rgb(201, 227, 182);
 }
 
 header .container div + div {
@@ -50,7 +50,7 @@ header ul li + li {
 
 /* main */
 main {
-  background: rgb(175, 213, 247);
+  background: rgb(202, 240, 245);
 }
 
 main .container {
